@@ -1,0 +1,162 @@
+
+
+
+.form-enroll{
+	width: 70%;
+	margin: 0 auto;
+
+}
+
+.btn-sub{
+	color: white;
+	background: navy;
+	padding: 5px;
+	margin-top: 10px;
+	border-radius: 10%;
+	width: 
+	text-align: center;
+}
+
+input[type=text]{
+	background: white;
+	color: white;
+}
+
+input[type=text]:hover{
+	background: white ;
+	color: white;
+}
+
+#our_service{
+	background: navy;
+	
+}
+
+.img-service{
+	height: 300px;
+	width: 80%;
+	margin-left: 10%;
+	border:#ded5d2 5px solid;
+
+}
+
+.service-content{
+	height: 200px;
+	width: 80%;
+	margin-left: 10%;
+	background: white;
+	color: navy;
+
+
+}
+
+.service-details{
+	padding: 10px;
+	color: #cda45e;
+	font-size: 20px;
+	font-weight: 600;
+
+}
+
+.service--details{
+	padding: 10px;
+	color: navy;
+	font-size: 20px;
+	background-color: white;
+	width: 80%;
+	margin-left: 10%;
+}
+
+.btn-service{
+	background: navy;
+	color: white;
+	text-decoration: none;
+	margin-left: 30%;
+	padding: 10px;
+	border-radius: 4%;
+	font-size: 20px;
+	transition: 2s all ease;
+}
+
+.btn-service-t{
+	background: navy;
+	color: white;
+	text-decoration: none;
+	margin-left: 15%;
+	padding: 10px;
+	border-radius: 4%;
+	font-size: 20px;
+	transition: 2s all ease;
+}
+
+
+.btn-service:hover{
+	background: white;
+	color: navy;
+	border:navy 2px solid;
+}
+.div-img{
+	width: 80%;
+	margin-left: 10%;
+}
+.partner{
+	height: 100px;
+	width: 60%;
+	margin-left: 20%;
+}
+
+.blog-image{
+  height: 300px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+@media (max-width: 768px) {
+  .home-caro{
+  
+  text-align: center;
+
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 170px;
+}
+
+.blog-image{
+  height: 200px;
+  width: 100%;
+  margin: 0 auto;
+}
+}
+
+@media (max-width: 991px){
+	.img-service{
+	margin-top: 30px;
+}
+
+.service-content{
+	height: 240px;
+}
+.btn-service{
+	
+	margin-left: 16%;
+	
+}
+.btn-service-t{
+	
+	margin-left: 5%;
+	
+}
+.div-img{
+	width: 90%;
+	margin-left: 5%;
+}
+.partner{
+	height: 70px;
+	width: 95%;
+	margin-left: 2.5%;
+}
+
+
+
+}
